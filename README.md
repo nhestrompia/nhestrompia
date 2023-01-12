@@ -1,4 +1,4 @@
-Hi 👋 My name is Umut Özçelik
+Hi 👋 My name is Umut
 =============================
 
 Developer
